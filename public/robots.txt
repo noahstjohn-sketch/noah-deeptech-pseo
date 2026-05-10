@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://deeptech.noahstjohn.com/sitemap-index.xml
